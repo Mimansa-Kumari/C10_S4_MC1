@@ -1,0 +1,15 @@
+.content
+{
+    display: inline-block;
+    width: 180px;
+    height: 150px;
+    padding: 25px;
+    margin-top: 20px;
+    text-align: center;
+    border: 1px solid grey;
+    box-shadow: 2px 1px 4px aqua;
+}
+#para
+{
+    font-size: 17px;
+}

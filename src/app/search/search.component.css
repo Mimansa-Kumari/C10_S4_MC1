@@ -1,0 +1,21 @@
+.flex
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+.searchItem
+{
+    padding: 7px;
+    border: 1px solid grey;
+    display: inline-block;
+}
+#text
+{
+    width: 200px;
+    padding: 3px;
+}
+#btn
+{
+    padding: 3px;
+}
